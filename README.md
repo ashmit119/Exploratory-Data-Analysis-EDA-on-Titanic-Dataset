@@ -1,2 +1,2 @@
-# Exploratory Data Analysis EDA on Titanic Dataset
+# Exploratory Data Analysis on Titanic Dataset
 This project analyzes the Titanic dataset to find how age, gender, and class affected survival using data cleaning and visualizations like bar plots, pie charts, and countplots.The dataset has been taken from kaggle,which contains information of the passengers on the titanic.Firstly the required libraries are imported,followed by preprocessing the raw data and handling the null values(mainly in the age column) to avoid any further faults.Then with the help of visualization techniques,we analyze the data and draw insights from it.
