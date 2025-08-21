@@ -1,2 +1,32 @@
 # Exploratory Data Analysis on Titanic Dataset
-This project analyzes the Titanic dataset to find how age, gender, and class affected survival using data cleaning and visualizations like bar plots, pie charts, and countplots.The dataset has been taken from kaggle,which contains information of the passengers on the titanic.Firstly the required libraries are imported,followed by preprocessing the raw data and handling the null values(mainly in the age column) to avoid any further faults.Then with the help of visualization techniques,we analyze the data and draw insights from it.
+This project explores the Titanic passenger dataset to understand survival patterns and relationships between passenger features such as class, sex, age, and fare.
+
+## Setup
+If you have a Jupyter Notebook environment:
+
+1. Open the `titanic.ipynb` notebook.
+2. Run the cells step-by-step to see the code and results.
+
+Or, if using Python :
+
+1. Install required packages:
+2. Open and run the `titanic.ipynb` notebook.
+
+## Files
+
+- `titanic.csv` - dataset
+- `titanic.ipynb` - project code
+
+## What it does
+
+- Loads and cleans data
+- Handles missing values(particularly in the age column)
+- Creates informative visualizations for categorical and numerical data.
+- Interpret survival patterns from historical data.
+
+  
+Feel free to explore and learn from the code!
+
+---
+
+Contact: ashmitbanerjee11.pkt@gmail.com
